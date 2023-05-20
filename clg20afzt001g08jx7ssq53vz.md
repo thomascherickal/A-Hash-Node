@@ -5,6 +5,7 @@ seoDescription: "Curious about transformers and how they work. Here is an exampl
 datePublished: Tue Apr 04 2023 08:36:23 GMT+0000 (Coordinated Universal Time)
 cuid: clg20afzt001g08jx7ssq53vz
 slug: creating-gpt-1-on-your-local-computer
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684596587517/e43814c4-727a-4385-a5db-5f2408a3b66f.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680597274658/58b6b6b7-b1d0-4f03-b2f0-b9a289825f63.jpeg
 tags: automation, nlp, gpt-3, transformers, gpt1
 
