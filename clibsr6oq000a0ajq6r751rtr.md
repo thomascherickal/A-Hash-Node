@@ -15,10 +15,9 @@ tags: ai, deep-learning, ml, julia, case-studies
 
 Deep learning has revolutionized the field of artificial intelligence, enabling remarkable advancements across various domains. Julia, a high-performance programming language, has emerged as a powerful tool for scientific computing and data analysis. In this article, we will explore Julia's deep learning capabilities through five fascinating case studies. By leveraging Julia's efficiency and flexibility, these case studies highlight the potential of Julia for solving complex deep learning problems.
 
-1. ### Image Classification with Flux.jl
-    
-    Flux.jl is a popular deep learning framework in Julia, inspired by PyTorch. It provides a high-level interface for building and training deep neural networks. In this case study, we'll demonstrate how to use Flux.jl for image classification tasks. By utilizing pre-trained models such as ResNet or VGG, we can easily achieve state-of-the-art accuracy on benchmark datasets like CIFAR-10 or ImageNet.
-    
+### Image Classification with Flux.jl
+
+Flux.jl is a popular deep learning framework in Julia, inspired by PyTorch. It provides a high-level interface for building and training deep neural networks. In this case study, we'll demonstrate how to use Flux.jl for image classification tasks. By utilizing pre-trained models such as ResNet or VGG, we can easily achieve state-of-the-art accuracy on benchmark datasets like CIFAR-10 or ImageNet.
 
 Code example:
 
@@ -53,10 +52,9 @@ acc = accuracy(test_data...)
 println("Accuracy on test set: ", acc)
 ```
 
-1. ### Natural Language Processing with TextAnalysis.jl
-    
-    TextAnalysis.jl is a Julia package that provides a wide range of tools for natural language processing (NLP) tasks. In this case study, we'll demonstrate how to perform sentiment analysis on textual data using deep learning techniques. By utilizing recurrent neural networks (RNNs) or transformers, TextAnalysis.jl enables us to build powerful models for sentiment classification or text generation tasks.
-    
+### Natural Language Processing with TextAnalysis.jl
+
+TextAnalysis.jl is a Julia package that provides a wide range of tools for natural language processing (NLP) tasks. In this case study, we'll demonstrate how to perform sentiment analysis on textual data using deep learning techniques. By utilizing recurrent neural networks (RNNs) or transformers, TextAnalysis.jl enables us to build powerful models for sentiment classification or text generation tasks.
 
 Code example:
 
@@ -87,10 +85,9 @@ acc = accuracy(test_data...)
 println("Accuracy on test set: ", acc)
 ```
 
-1. ### Reinforcement Learning with ReinforcementLearning.jl
-    
-    ReinforcementLearning.jl is a powerful Julia package for implementing reinforcement learning algorithms. In this case study, we'll demonstrate how to train an agent using deep Q-learning to play Atari games. By combining deep neural networks with reinforcement learning techniques, ReinforcementLearning.jl allows us to develop intelligent agents that learn to make decisions in complex environments.
-    
+### Reinforcement Learning with ReinforcementLearning.jl
+
+ReinforcementLearning.jl is a powerful Julia package for implementing reinforcement learning algorithms. In this case study, we'll demonstrate how to train an agent using deep Q-learning to play Atari games. By combining deep neural networks with reinforcement learning techniques, ReinforcementLearning.jl allows us to develop intelligent agents that learn to make decisions in complex environments.
 
 Code example:
 
@@ -119,10 +116,9 @@ mean_score = mean([result.score for result in eval_results])
 println("Mean score: ", mean_score)
 ```
 
-1. ### Time Series Forecasting with FluxTime.jl
-    
-    FluxTime.jl is a Julia package specifically designed for time series forecasting tasks using deep learning models. In this case study, we'll demonstrate how to use FluxTime.jl to build and train recurrent neural networks for predicting future stock prices. By leveraging the power of Julia and FluxTime.jl, we can create accurate and efficient models for time series analysis.
-    
+### Time Series Forecasting with FluxTime.jl
+
+FluxTime.jl is a Julia package specifically designed for time series forecasting tasks using deep learning models. In this case study, we'll demonstrate how to use FluxTime.jl to build and train recurrent neural networks for predicting future stock prices. By leveraging the power of Julia and FluxTime.jl, we can create accurate and efficient models for time series analysis.
 
 Code example:
 
@@ -193,11 +189,11 @@ for sample in generated_samples
 end
 ```
 
-Conclusion
+### Conclusion
 
 Julia's deep learning ecosystem provides a powerful and flexible platform for tackling complex machine learning tasks. Through the presented case studies, we have explored Julia's capabilities in image classification, natural language processing, reinforcement learning, time series forecasting, and generative adversarial networks. By leveraging the efficiency and expressiveness of Julia, researchers and practitioners can push the boundaries of deep learning and achieve remarkable results. As Julia continues to evolve, it is expected to play a significant role in advancing the field of deep learning.
 
-References:
+## References
 
 1. Julia: A Fresh Approach to Numerical Computing. ([**https://julialang.org/**](https://julialang.org/))
     
