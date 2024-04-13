@@ -6,7 +6,7 @@ datePublished: Sat Apr 13 2024 03:14:40 GMT+0000 (Coordinated Universal Time)
 cuid: cluxix6bt000408k0fbdq9c61
 slug: the-art-of-fine-tuning-large-language-models-explained-in-depth
 canonical: https://thomascherickal.medium.com/the-art-of-fine-tuning-large-language-models-explained-in-depth-310f8aedf8cc
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1712977746720/8c223ab1-bc0a-47bd-a51f-7527f26c08e8.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1712978176192/a1100c8e-eee8-443b-985c-453eb8acb00f.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1712977906044/800246fd-daa3-4798-8936-ae9ae9f8e3fa.png
 tags: secrets, pitfalls, step-by-step-guide, finetuning, llms, art-of-finetuning, finer-nuances
 
