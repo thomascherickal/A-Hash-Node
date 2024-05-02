@@ -5,6 +5,7 @@ seoDescription: "The Advent of AGI: the Spatial Web 3.0 with AR, Blockchain, and
 datePublished: Mon Mar 06 2023 11:15:44 GMT+0000 (Coordinated Universal Time)
 cuid: clewq7o1r000n09l567jbatue
 slug: the-advent-of-agi-the-spatial-web-30-with-ar-blockchain-and-kosm-os
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714675916232/b6549bae-54d5-4e26-924c-b8fa46dcc485.jpeg
 tags: artificial-intelligence, augmented-reality, blockchain-technology, agi, spatial-web
 
 ---
