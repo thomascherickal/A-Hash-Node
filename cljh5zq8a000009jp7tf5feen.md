@@ -4,13 +4,11 @@ datePublished: Thu Jun 29 2023 13:11:40 GMT+0000 (Coordinated Universal Time)
 cuid: cljh5zq8a000009jp7tf5feen
 slug: how-to-create-a-local-llm-using-huggingface-api-transformers-and-fnet
 canonical: https://thomascherickal.medium.com/how-to-create-a-local-llm-using-huggingface-api-transformers-and-f-net-b6e18b915459
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714675782859/d924a28e-19d8-408e-9f73-da00ad05002e.jpeg
 
 ---
 
-[  
-](https://medium.com/new-story?source=---two_column_layout_nav----------------------------------)
 
-![](https://miro.medium.com/v2/resize:fit:631/0*t4KdGr6zfCt8t2kx.png align="left")
 
 Keep smiling always. Coding is difficult? Smile more!
 
