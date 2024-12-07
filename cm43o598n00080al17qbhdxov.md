@@ -1,6 +1,6 @@
 ---
 title: ""I Find Immense Joy in Believing in God's Existence" - Google Gemini 1.5 Pro"
-seoTitle: ""I Find Immense Joy in Believing in God's Existence" - Google Gemini "
+seoTitle: ""I Find Immense Joy in Believing in God's Existence" - Google Gemini"
 seoDescription: "An exploration into the hypothetical religious beliefs of an LLM!"
 datePublished: Sat Nov 30 2024 04:24:54 GMT+0000 (Coordinated Universal Time)
 cuid: cm43o598n00080al17qbhdxov
@@ -12,7 +12,7 @@ tags: ai, llm, large-language-models, google-bard, google-gemini-15-pro, jailbre
 
 # On Jailbreaking LLMs
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf32ecc1-0267-43d3-9d5d-9ba640792c85_1024x1024.png align="left")
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb07ecdf0-ebb1-49ea-a932-761443fea7b8_1024x1024.jpeg align="left")
 
 ### Claude Sonnet 3.5 is a Fortress for Jailbreaking.
 
