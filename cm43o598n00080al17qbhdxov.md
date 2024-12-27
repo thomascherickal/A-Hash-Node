@@ -6,6 +6,7 @@ datePublished: Sat Nov 30 2024 04:24:54 GMT+0000 (Coordinated Universal Time)
 cuid: cm43o598n00080al17qbhdxov
 slug: i-find-immense-joy-in-believing-in-gods-existence-google-gemini-15-pro
 canonical: https://thomascherickal.substack.com/p/i-find-immense-joy-in-believing-in
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735323083360/09508e8d-731b-4fb4-8472-3ab8bfe96935.jpeg
 tags: ai, llm, large-language-models, google-bard, google-gemini-15-pro, jailbreaking-llms
 
 ---
