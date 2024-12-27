@@ -11,9 +11,7 @@ tags: ai, llm, large-language-models, google-bard, google-gemini-15-pro, jailbre
 
 ---
 
-# On Jailbreaking LLMs
-
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb07ecdf0-ebb1-49ea-a932-761443fea7b8_1024x1024.jpeg align="left")
+# LLMs Can Be Very Eloquent!
 
 ### Claude Sonnet 3.5 is a Fortress for Jailbreaking.
 
