@@ -6,12 +6,11 @@ datePublished: Fri Jan 31 2025 20:54:48 GMT+0000 (Coordinated Universal Time)
 cuid: cm6l8t3qa000f09icfqaf9br5
 slug: china-is-already-beating-the-us-in-quantum-computing
 canonical: https://hackernoon.com/china-is-already-beating-the-us-in-quantum-computing
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738357006411/0de05c12-3e9b-4225-b715-fc9e520bff3d.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1738356752213/1f1bca27-5077-44fc-9cd1-bbf9cac32abc.jpeg
 tags: quantum-computers, quaternions, computational-power, quantum-race, quantum-supremacy, quaterbit, octonions
 
 ---
-
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5812ed5-abef-4aa4-84f3-933a226ce19a_1792x1024.avif align="left")
 
 *First published on HackerNoon at:*
 
@@ -115,7 +114,7 @@ There are many reasons to ditch qubits and go for quaterbits as the basic buildi
 
 The advantages of quaterbits are given below:
 
-1. ﻿**Superior information capacity:** Quaterbits can represent four distinct states at the same time! This increased capacity leads to efficient encoding and faster compute processing. A quaterbit doubles the amount of information that a qubit can carry. It also unlocks the door to more powerful algorithms and more powerful quantum computers.
+1. **Superior information capacity:** Quaterbits can represent four distinct states at the same time! This increased capacity leads to efficient encoding and faster compute processing. A quaterbit doubles the amount of information that a qubit can carry. It also unlocks the door to more powerful algorithms and more powerful quantum computers.
     
 2. **Increased computational complexity:** The computational power of systems using quaterbits grows super-exponentially with the number of quaterbits. **For *n* quaterbits, the number of possible states is 4^*n*, compared to 2^*n* for qubits.** That possibly indicates that 2048-bit RSA encryption could be broken with 1024-quaterbit computers. Which, alone, makes it worth exploring in more detail.
     
